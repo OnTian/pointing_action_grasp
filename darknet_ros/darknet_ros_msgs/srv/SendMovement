@@ -1,0 +1,4 @@
+bool done
+---
+float64[] position
+bool is_done

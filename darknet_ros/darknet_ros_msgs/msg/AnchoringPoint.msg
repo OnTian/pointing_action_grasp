@@ -1,0 +1,3 @@
+float64[] head_minimum_z
+float64[] pointing_minimum_z
+bool is_done
